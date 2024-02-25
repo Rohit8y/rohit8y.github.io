@@ -164,7 +164,7 @@ related_blog_posts:
 # Collections
 # -----------------------------------------------------------------------------
 
- collections:
+collections:
   news:
     defaults:
       layout: post
