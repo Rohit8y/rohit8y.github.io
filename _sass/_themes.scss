@@ -40,13 +40,16 @@
   }
 
   .repo-img-light {
-    display: initial;
+    display: block;
+    height: 150px;
+    width: auto;
+    padding-right: 10px;
   }
   .repo-img-dark {
     display: none;
   }
   .repo-stats {
-    height: 100px;
+    height: 150px;
     width: auto;
   }
 }
@@ -89,13 +92,16 @@ html[data-theme="dark"] {
   }
 
   .repo-img-light {
-    display: initial;
+    display: block;
+    height: 150px;
+    width: auto;
+    padding-right: 10px;
   }
   .repo-img-dark {
     display: none;
   }
   .repo-stats {
-    height: 100px;
+    height: 150px;
     width: auto;
   }
 }
