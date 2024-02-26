@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - Rohit8y
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Rohit8y/Fake-Image-Recognition
+  - Rohit8y/MocoFSD
+  - Rohit8y/BIP-Segmentation
+  - Rohit8y/MICO
