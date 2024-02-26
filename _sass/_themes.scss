@@ -88,10 +88,11 @@ html[data-theme="dark"] {
     display: none;
   }
   .repo-img-dark {
-    display: block;
+    display: initial;
   }
   .repo-stats {
+    display: inline;
     height: 10px;
-    width: 10;
+    width: 10px;
   }
 }
