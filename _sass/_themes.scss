@@ -39,11 +39,14 @@
     display: block;
   }
 
-  .repo-img-light {
+  .repo-img-light-github-user {
     display: block;
     height: 150px;
     width: auto;
     padding-right: 10px;
+  }
+  .repo-img-light {
+    display: block;
   }
   .repo-img-dark {
     display: none;
@@ -91,11 +94,14 @@ html[data-theme="dark"] {
     display: none;
   }
 
-  .repo-img-light {
+  .repo-img-light-github-user {
     display: block;
     height: 150px;
     width: auto;
     padding-right: 10px;
+  }
+  .repo-img-light {
+    display: block;
   }
   .repo-img-dark {
     display: none;
