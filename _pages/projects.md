@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore my portfolio of cool machine learning and computer vision projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
