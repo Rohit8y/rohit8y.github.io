@@ -29,6 +29,15 @@
       "endDate": "2022-08",
       "summary": "Self-supervised steel defect classification pipeline.",
       "highlights": ["PoC for detecting 8 different types of defects by combining SwaV and clustering techniques."]
+    },
+    {
+      "name": "Orkash Labs",
+      "position": "Software Engineer",
+      "url": "https://www.orkashlabs.com/",
+      "startDate": "2018-06",
+      "endDate": "2021-07",
+      "summary": "3+ years of experience in an AI R&D firm building state-of-the-art cognitive AI solutions.",
+      "highlights": ["Worked on several projects in domains like Machine Learning, Computer Vision, Natural Language Processing, and OSINT."]
     }
   ],
   "volunteer": [
