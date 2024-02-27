@@ -19,7 +19,16 @@
       "startDate": "2023-01",
       "endDate": "2023-08",
       "summary": "Developed a fake image recognition framework using contrastive learning",
-      "highlights": ["Detect fake images within research papers, enhancing the integrity of academic publications.", "Model detection accuracy increase significantly by incorporating image captions."]
+      "highlights": ["Detect fake images within research papers, enhancing the integrity of academic publications.", "Model detection accuracy increases significantly by incorporating image captions."]
+    },
+    {
+      "name": "University of Groningen",
+      "position": "Teaching Assistant",
+      "url": "https://www.rug.nl/",
+      "startDate": "2022-09",
+      "endDate": "2023-07",
+      "summary": "Teaching Assitant for the following courses:",
+      "highlights": ["Pattern Recognition", "Computer Vision", "Web and Cloud Computing", "Signal and Systems"]
     },
     {
       "name": "Tata Steel",
