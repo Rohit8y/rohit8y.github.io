@@ -21,33 +21,6 @@
       "summary": "Developed a fake image recognition framework using contrastive learning",
       "highlights": ["Detect fake images within research papers, enhancing the integrity of academic publications.", "Model detection accuracy increase significantly by incorporating image captions."]
     },
-    {
-      "name": "University of Groningen",
-      "position": "Teaching Assistant",
-      "url": "https://www.rug.nl/",
-      "startDate": "2022-09",
-      "endDate": "2023-07",
-      "summary": "Teaching Assitant for the following courses:",
-      "highlights": ["Pattern Recognition", "Computer Vision", "Web & Cloud Computing", "Signal & Systems"]
-    },
-    {
-      "name": "Tata Steel",
-      "position": "Computer Vision Intern",
-      "url": "https://www.tatasteeleurope.com/",
-      "startDate": "2022-07",
-      "endDate": "2022-08",
-      "summary": "Self-supervised steel defect classification pipeline.",
-      "highlights": ["PoC for detecting 8 different types of defects by combining SwaV and clustering techniques."]
-    },
-    {
-      "name": "Orkash Labs",
-      "position": "Software Engineer",
-      "url": "https://www.orkashlabs.com/",
-      "startDate": "2018-06",
-      "endDate": "2021-07",
-      "summary": "3+ years of experience in an AI R&D firms building state-of-the-art cognitive AI solutions.",
-      "highlights": ["Worked on several projects in domains like Machine Learning, Computer Vision, Natural Language Processing, and OSINT."]
-    },
   ],
   "volunteer": [
     {
