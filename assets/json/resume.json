@@ -14,12 +14,21 @@
   "work": [
     {
       "name": "Slimmer AI",
-      "position": "Machine Learning Intern - Springer Nature Group",
+      "position": "Machine Learning Intern | Springer Nature Group",
       "url": "https://www.slimmer.ai/",
       "startDate": "2023-01",
       "endDate": "2023-08",
       "summary": "Developed a fake image recognition framework using contrastive learning",
-      "highlights": ["Detect fake images within research papers, enhancing the integrity of academic publications", "Model detection accuracy increase significantly by incorporating image captions."]
+      "highlights": ["Detect fake images within research papers, enhancing the integrity of academic publications.", "Model detection accuracy increase significantly by incorporating image captions."]
+    },
+    {
+      "name": "Tata Steel",
+      "position": "Computer Vision Intern",
+      "url": "https://www.tatasteeleurope.com/",
+      "startDate": "2022-07",
+      "endDate": "2022-08",
+      "summary": "Self-supervised steel defect classification pipeline.",
+      "highlights": ["PoC for detecting 8 different types of defects by combining SwaV and clustering techniques."]
     }
   ],
   "volunteer": [
