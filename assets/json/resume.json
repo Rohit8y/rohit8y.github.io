@@ -1,14 +1,21 @@
 {
   "basics": {
-    "full name": "Rohit Yadav",
+    "name": "Rohit Yadav",
     "research areas": "Computer Vision, Deep Learning",
     "image": "",
     "email": "edu.rohit.y@gmail.com",
+    "location": {
+      "address": "Hoogeweg 3",
+      "postalCode": "9746TN",
+      "city": "Groningen",
+      "region": "Netherlands"
+    }
   },
   "work": [
     {
       "name": "Slimmer AI",
       "position": "Machine Learning Intern - Springer Nature Group",
+      "url": "https://www.slimmer.ai/"
       "startDate": "2023-01-01",
       "endDate": "2023-08-31",
       "summary": "",
