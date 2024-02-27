@@ -1,33 +1,18 @@
 {
   "basics": {
-    "name": "Rohit Yadav",
+    "full name": "Rohit Yadav",
     "research areas": "Computer Vision, Deep Learning",
     "image": "",
-    "email": "edu.rohit.y@fmail.com",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "edu.rohit.y@gmail.com",
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Slimmer AI",
+      "position": "Machine Learning Intern - Springer Nature Group",
+      "startDate": "2023-01-01",
+      "endDate": "2023-08-31",
+      "summary": "",
+      "highlights": ["Designed a novel fake image recognition framework using contrastive learning to detect fake images within research papers, enhancing the integrity of academic publications.", "Deployed production-ready models achieving a 94% accuracy rate in scanning over 500K images annually." "Boosted detection accuracy by 15% by incorporating image captions, excelling at identifying even highly realistic fakes by generative models like DallE."]
     }
   ],
   "volunteer": [
