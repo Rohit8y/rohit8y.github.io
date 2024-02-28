@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Explore my portfolio of cool machine learning and computer vision projects.
+description: Coming soon...
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 
