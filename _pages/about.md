@@ -20,3 +20,9 @@ I'm a deep learning engineer with a passion for computer vision and AI. I recent
 
 My non differentiable passions include music, playing volleyball and learning foreign languages. Overall, I'm constantly seeking new challenges where I can apply my passion for AI to make a difference.
 
+
+
+
+
+
+
