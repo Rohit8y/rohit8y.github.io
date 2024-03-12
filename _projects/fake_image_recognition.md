@@ -5,7 +5,7 @@ description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: Computer Vision
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
