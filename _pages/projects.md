@@ -5,7 +5,7 @@ permalink: /projects/
 description: Coming soon...
 nav: true
 nav_order: 3
-display_categories:
+display_categories: [Computer Vision, Machine learning, Misc.]
 horizontal: false
 ---
 
